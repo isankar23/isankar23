@@ -73,11 +73,25 @@ I am a detail-oriented Quality Engineer with 3+ years of hands-on experience in 
 
 ---
 
+...
+
+---
+
 ## 🧪 Projects & Publications
 
-- 🌀 **Vertical Axis Wind Turbine (VAWT)** – National Finalist, Smart India Hackathon  
-- 📘 [Leaf Drill Jig – IJRPR Journal](https://ijrpr.com/uploads/V3ISSUE7/IJRPR5611.pdf)  
-- 📘 [Laser Beam Machining – IJRPR Journal](https://ijrpr.com/uploads/V2ISSUE10/IJRPR1490.pdf)
+### 🌀 Smart India Hackathon (National Finalist – ₹50,000 Prize)
+- Designed and developed a **Vertical Axis Wind Turbine (VAWT)** for sustainable energy in low-wind conditions.
+- Led end-to-end execution: 3D modeling, DFMA, FEA analysis, material selection, and prototype fabrication.
+- Secured **3rd place** at national level for cost-effective, innovative engineering design.
+
+### 🔧 Precision Leaf Drill Jig (Research Project)
+- 📘 [IJRPR Publication – Leaf Drill Jig for Pen Holder](https://ijrpr.com/uploads/V3ISSUE7/IJRPR5611.pdf)
+
+### 🔬 Laser Beam Machining (Research Paper)
+- 📘 [IJRPR Publication – Laser Beam Machining](https://ijrpr.com/uploads/V2ISSUE10/IJRPR1490.pdf)
+
+---
+
 
 ---
 
