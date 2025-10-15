@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sai Sankaran Kandath
 
 🎓 **Industrial & Mechanical Engineer**  
-🛠️ 3+ Years | Quality Systems | Lean Six Sigma | Project Management  
+🛠️ 3+ Years | Manufacturing & Quality Systems | Lean Six Sigma | Project Management  
 📍 Lubbock, TX | 📧 kandathsaisankaran@gmail.com | [LinkedIn](https://www.linkedin.com/in/kandath-sai-sankaran) | [GitHub](https://github.com/isankar23)
 
 ---
