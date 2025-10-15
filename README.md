@@ -14,7 +14,7 @@ I am a detail-oriented Manufacturing and Quality Engineer with 3+ years of hands
 
 ## 💼 Work Experience Highlights
 
-### 🔧 Manugacturing Engineer – Caresoft Global Technologies (Aug ’24 – Present)
+### 🔧 Manufacturing Engineer – Caresoft Global Technologies (Aug ’24 – Present)
 - Reduced internal defect rate by **35%** through RCA and CAPA implementations.
 - Conducted 50+ supplier audits to improve vendor quality KPIs.
 - Led PFMEA and APQP initiatives for new product launches.
