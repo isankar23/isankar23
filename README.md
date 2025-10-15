@@ -2,7 +2,7 @@
 
 🎓 **Industrial & Mechanical Engineer**  
 🛠️ 3+ Years | Manufacturing & Quality Systems | Lean Six Sigma | Project Management  
-📍 Lubbock, TX | 📧 kandathsaisankaran@gmail.com | [LinkedIn](https://www.linkedin.com/in/kandath-sai-sankaran) | [GitHub](https://github.com/isankar23)
+📍 Denton, TX | 📧 kandathsaisankaran@gmail.com | [LinkedIn](https://www.linkedin.com/in/kandath-sai-sankaran) | [GitHub](https://github.com/isankar23)
 
 ---
 
