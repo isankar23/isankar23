@@ -8,13 +8,13 @@
 
 ## 🧾 About Me
 
-I am a detail-oriented Quality Engineer with 3+ years of hands-on experience in automotive and academic environments. I specialize in manufacturing quality systems, root cause analysis, and Lean Six Sigma methods to reduce defects and drive process improvements. I enjoy working on cross-functional teams to enhance quality, compliance, and production efficiency.
+I am a detail-oriented Manufacturing and Quality Engineer with 3+ years of hands-on experience in automotive and academic environments. I specialize in manufacturing quality systems, root cause analysis, and Lean Six Sigma methods to reduce defects and drive process improvements. I enjoy working on cross-functional teams to enhance quality, compliance, and production efficiency.
 
 ---
 
 ## 💼 Work Experience Highlights
 
-### 🔧 Quality Engineer – Caresoft Global Technologies (Aug ’24 – May ’25)
+### 🔧 Manugacturing Engineer – Caresoft Global Technologies (Aug ’24 – Present)
 - Reduced internal defect rate by **35%** through RCA and CAPA implementations.
 - Conducted 50+ supplier audits to improve vendor quality KPIs.
 - Led PFMEA and APQP initiatives for new product launches.
